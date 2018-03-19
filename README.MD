@@ -13,3 +13,8 @@
 4. Check the discussion section and see how the best answer does
 5. Close the discussion and do it again!
 6. Take down codes and notes for that problem, and push to this project!
+
+
+
+
+Reference to this good [template] (https://github.com/illuz/leetcode)
