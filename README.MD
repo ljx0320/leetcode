@@ -17,4 +17,4 @@
 
 
 
-Reference to this good [template] (https://github.com/illuz/leetcode)
+Reference to this good [template](https://github.com/illuz/leetcode)
