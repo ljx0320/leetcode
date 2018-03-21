@@ -1,3 +1,7 @@
+### TODO
+Need to add a "keyword" feature of readme file so that you can quickly review the things you have learnt.
+e.g, 771: set, unordered_set, initialize
+
 ### Why this project?
 ---
 1. Practice the data structure and algorithm for C++ (may learn java)
