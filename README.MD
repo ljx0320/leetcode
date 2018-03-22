@@ -1,8 +1,8 @@
-### TODO
+## TODO
 Need to add a "keyword" feature of readme file so that you can quickly review the things you have learnt.
 e.g, 771: set, unordered_set, initialize
 
-### Why this project?
+## Why this project?
 ---
 1. Practice the data structure and algorithm for C++ (may learn java)
 
@@ -13,7 +13,7 @@ e.g, 771: set, unordered_set, initialize
 4. Learn git and other stuff
 
 5. Just cool
-### How?
+## How?
 ---
 1. Sort the [leetcode](https://leetcode.com/problemset/all/) problems by acceptance
 
@@ -27,7 +27,7 @@ e.g, 771: set, unordered_set, initialize
 
 6. Take down codes and notes for that problem, and push to this project!
 
-### Details about taking notes
+## Details about taking notes
 ---
 1. Why I got wrong? (if necessary)
 
@@ -41,3 +41,10 @@ e.g, 771: set, unordered_set, initialize
 Reference to this good [template](https://github.com/illuz/leetcode)
 
 Note that codes cannot run locally. Should copy and paste on leetcode and run.
+
+
+
+## Keywords (for review)
+461: binary number, bit manipulation, AND, OR, XOR, logic
+654: tree, binary tree, recursion, pointer, reference, pass by pointer, pass by reference, syntax, dynamic object, dynamic memory
+771: set, unordered_set, initialize
