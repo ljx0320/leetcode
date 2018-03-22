@@ -45,8 +45,8 @@ Note that codes cannot run locally. Should copy and paste on leetcode and run.
 
 
 ## Keywords (for review)
-461: binary number, bit manipulation, AND, OR, XOR, logic
+[461](https://github.com/ljx0320/leetcode/tree/master/461_Hamming_Distance): binary number, bit manipulation, AND, OR, XOR, logic
 
-654: tree, binary tree, recursion, pointer, reference, pass by pointer, pass by reference, syntax, dynamic object, dynamic memory
+[654](https://github.com/ljx0320/leetcode/tree/master/654_maximum_binary_tree): tree, binary tree, recursion, pointer, reference, pass by pointer, pass by reference, syntax, dynamic object, dynamic memory
 
-771: set, unordered_set, initialize
+[771](https://github.com/ljx0320/leetcode/tree/master/771_Jewels%20and%20Stones): set, unordered_set, initialize
