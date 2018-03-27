@@ -51,6 +51,8 @@ Note that codes cannot run locally. Should copy and paste on leetcode and run.
 
 [654](https://github.com/ljx0320/leetcode/tree/master/654_maximum_binary_tree): tree, binary tree, recursion, pointer, reference, pass by pointer, pass by reference, syntax, dynamic object, dynamic memory
 
+[728](https://github.com/ljx0320/leetcode/tree/master/728_Self_Dividing_Numbers): char to int, bit manipulation, break loop
+
 [771](https://github.com/ljx0320/leetcode/tree/master/771_Jewels%20and%20Stones): set, unordered_set, initialize
 
 [797](https://github.com/ljx0320/leetcode/tree/master/797_All_Paths_From_Source_to_Target): DFS, recursive, pass by reference, pass by copy, helper function. auto, iterator
